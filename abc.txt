@@ -1,5 +1,2 @@
-this is editing 
-
-tezz branch
-adding some data again 
+This is a branch for tezz. Adding some data again.
  
